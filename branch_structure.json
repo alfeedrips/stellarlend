@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/unified-error-system",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/unified-error-system": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/unified-error-system",
+    "origin"
+  ]
+}
